@@ -1,5 +1,5 @@
 /*
-07 -  DESAFIO — Sistema de Cadastro de Alunas
+07 - DESAFIO — Sistema de Cadastro de Alunas
 Você vai construir um programa que cadastra alunas, calcula a média delas e diz se foram aprovadas.
 O programa fica rodando até a pessoa escolher sair.
 
